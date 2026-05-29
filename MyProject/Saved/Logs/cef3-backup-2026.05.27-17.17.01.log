@@ -1,0 +1,11 @@
+[20404:21928:0527/193006.363:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20404:8896:0527/193006.396:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[20404:21928:0527/193006.415:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20404:21928:0527/193011.885:ERROR:device_event_log_impl.cc(196)] [19:30:11.818] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
+[20404:396:0527/193013.489:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[1644:10936:0527/193014.382:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B846AC014276C9047A946498DA7ECE92 will be ignored
+[20404:396:0527/193118.367:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[18584:3192:0527/201657.211:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1x1
+[18584:3192:0527/201657.213:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2272x1336
+[18584:3192:0527/201657.213:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 1x1 to 2272x1336 (100% of ideal size)
+[20404:21928:0527/201701.158:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

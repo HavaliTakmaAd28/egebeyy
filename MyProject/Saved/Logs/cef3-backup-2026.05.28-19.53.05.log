@@ -1,0 +1,22 @@
+[17780:12240:0528/224458.424:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17780:13928:0528/224458.474:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17780:12240:0528/224458.508:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17780:12240:0528/224508.392:ERROR:device_event_log_impl.cc(196)] [22:45:07.679] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
+[11452:17876:0528/224510.797:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4E770659B7F7DE101B2C085994EBA283 will be ignored
+[17780:16556:0528/224511.119:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[17780:12240:0528/224511.247:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
+[17780:12240:0528/224511.247:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
+[17780:12240:0528/224511.247:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
+[17780:12240:0528/224511.248:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
+[17780:16556:0528/224511.251:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
+[16932:12936:0528/224512.246:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-01FB6A4E6A56BD29E4AED842A740B057 will be ignored
+[15904:12560:0528/224512.301:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[3332:11136:0528/224512.866:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19232:19592:0528/224513.243:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19232:19592:0528/224513.470:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19232:4140:0528/224513.475:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19232:4140:0528/224513.475:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19232:4140:0528/224513.475:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[15904:12560:0528/224718.598:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[15904:12560:0528/224718.599:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[17780:12240:0528/225305.787:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
